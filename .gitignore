@@ -1,3 +1,5 @@
 venv
 frame
 data
+*.avi
+*.mov
