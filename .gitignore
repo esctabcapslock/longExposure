@@ -4,3 +4,7 @@ data
 *.avi
 *.mov
 *.png
+*.o
+target
+Cargo.lock
+__pycache__

@@ -1,0 +1,8 @@
+[package]
+name = "long_exposure"
+version = "0.1.0"
+authors = ["esctabcapslock"]
+edition = "2021"
+
+[dependencies]
+opencv = "0.66"
